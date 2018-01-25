@@ -20,5 +20,6 @@ Type the following command in terminal:
 To run the app use the command:
 for iOS
 > react-native run-ios
+
 for Android
 > react-native run-android
