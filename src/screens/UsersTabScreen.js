@@ -5,10 +5,14 @@ import {
   FlatList,
   TouchableOpacity,
   StyleSheet,
+  NativeModules,
 } from 'react-native';
 import firebase from 'react-native-firebase';
 
 import UserCell from '../components/UserCell';
+
+var OutputVolume = NativeModules.OutputVolume;
+OutputVolume.get();
 
 export default class UsersTabScreen extends Component {
 
