@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1030573789647",
+    "firebase_url": "https://planto-a50e7.firebaseio.com",
+    "project_id": "planto-a50e7",
+    "storage_bucket": "planto-a50e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030573789647:android:fee8fbf31be2b654",
+        "android_client_info": {
+          "package_name": "com.planto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030573789647-9iklf5nba2l85cj7398s3fpemdgsiv5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgYkc64VbM-7vrGASyJLcphHnuWqhTW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
