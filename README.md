@@ -18,6 +18,7 @@ Type the following command in terminal:
 > npm install
 
 To run the app use the command:
+
 for iOS
 > react-native run-ios
 
